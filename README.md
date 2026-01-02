@@ -15,22 +15,7 @@ It loads PDFs, chunks the text, creates embeddings using **Ollama**, stores them
 - 🤖 Generate answers using **Groq** (`llama-3.1-8b-instant`)
 - 🧾 Shows retrieved chunks in an expandable section
 
----
 
-## Project Structure
-
-```
-
-your-project/
-│── app.py
-│── .env
-│── research_papers/
-│    ├── paper1.pdf
-│    ├── paper2.pdf
-│    └── ...
-│── README.md
-
-````
 
 ---
 
